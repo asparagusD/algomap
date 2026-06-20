@@ -13,8 +13,10 @@ def is_subsequence(s, t):
                 return True
             j += 1
 
+
+    return False
     
     
 
 
-print(is_subsequence("ab", "baab"))
+print(is_subsequence("aec", "abcde"))
