@@ -15,3 +15,11 @@ def max_profit(prices):
 
 print(max_profit([7,1,5,3,6,4]))
 
+
+'''
+    7 < inf: min_price = 7
+    7-7 > 0
+
+    
+'''
+
